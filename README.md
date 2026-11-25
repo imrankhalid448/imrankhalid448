@@ -1,19 +1,23 @@
-# Hi, I'm Imran Khalid
+<div align="center">
 
-**AI & Machine Learning Team Lead at QIntellect Technologies**  
-Building scalable, production-ready AI systems across **Generative AI, LLMs, RAG, Agentic AI, Computer Vision, and Deep Learning**.
+# Imran Khalid
+
+**AI & Machine Learning Team Lead @ QIntellect Technologies**  
+*Designing and shipping production-ready Generative AI, RAG, Agentic AI, and Real-Time Computer Vision systems.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-imrankhalid.me-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://imrankhalid.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mimran--khalid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mimran-khalid/)
 [![Scrybix](https://img.shields.io/badge/Product-scrybix.ai-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://scrybix.ai/)
 
+</div>
+
 ---
 
-### Core Engineering Focus
-- **Generative AI & Agentic Systems:** LLM orchestration, RAG pipelines, hybrid retrieval, structured outputs, and local-first AI agents.
-- **Real-Time Computer Vision:** Face recognition, object detection, PPE/fire safety monitoring, and medical imaging (CNN + Grad-CAM).
-- **Speech & Audio AI:** Fast transcription, speaker diarization, and serverless GPU inference (Modal + AWS).
-- **Production Architecture & MLOps:** End-to-end delivery from model training and optimization to FastAPI/React APIs, Docker, and cloud deployment.
+### Engineering Focus
+- **Generative AI & Agentic Systems:** LLM orchestration, hybrid retrieval (BM25 + dense embeddings), cross-encoder reranking, structured outputs, and local-first AI agents.
+- **Real-Time Computer Vision:** Multi-camera face recognition, object detection, PPE/fire safety monitoring, and explainable medical imaging (CNN + Grad-CAM).
+- **Speech & Audio AI:** Fast multi-speaker transcription, speaker diarization, and serverless GPU inference (Modal + AWS).
+- **Production Architecture & Security:** Idempotent REST APIs, encrypted credential management, FastAPI/React full-stack delivery, Docker, and MLOps.
 
 ---
 
@@ -21,13 +25,24 @@ Building scalable, production-ready AI systems across **Generative AI, LLMs, RAG
 
 | System | Problem Solved | Architecture & Stack |
 | :--- | :--- | :--- |
-| **[QuantEye](https://qintellecttechnologies.com)** | Eliminates biometric bottlenecks and proxy attendance using existing CCTV feeds | Python, Computer Vision, Face Recognition, FastAPI, GPS & HRM Integration |
+| **[QuantEye](https://qintellecttechnologies.com)** | Eliminates biometric bottlenecks & proxy attendance using live CCTV feeds | Python, Computer Vision, Face Recognition, FastAPI, GPS & HRM |
 | **[Scrybix.ai](https://scrybix.ai/)** | Multi-speaker audio transcription with accurate speaker diarization in seconds | React, FastAPI, AWS, Serverless GPU Inference (Modal) |
 | **GenFedRepKG** | Privacy-preserving rare-disease drug repurposing across distributed clinical data | Generative AI, Knowledge Graphs, Federated Learning, Explainable AI |
 | **Swift Sales** | 24/7 automated NLP order, stock, and customer support for pharma distribution | Node.js, Express, Transformers, FAISS Vector Search, WhatsApp & Web |
 | **Alzheimer's MRI AI** | Early-stage MRI classification with visual brain-region explainability | PyTorch / TensorFlow, CNNs, Denoising, Grad-CAM |
-| **CareerOS Agent** | Local-first personal LinkedIn & career AI studio with official OAuth 2.0 | React, FastAPI, SQLite, Ollama (`qwen2.5:7b`), Official LinkedIn API |
+| **[CareerOS Agent](https://github.com/imrankhalid448/careeros-linkedin-agent)** | Local-first personal LinkedIn & career AI studio with official OAuth 2.0 | React, FastAPI, SQLite, Ollama (`qwen2.5:7b`), Official LinkedIn API |
 | **EDI AS2 Gateway** | Encrypted, signed enterprise X12 EDI file exchange with MDN receipts | Node.js, Express, MongoDB, Redis, X.509, OpenPGP |
+
+---
+
+### Featured Open-Source & Portfolio Repositories
+
+| Repository | Description | Stack |
+| :--- | :--- | :--- |
+| **[careeros-linkedin-agent](https://github.com/imrankhalid448/careeros-linkedin-agent)** | Local-first AI Career & LinkedIn Agent with CI, `pytest`, and official OAuth 2.0 | React, FastAPI, SQLite, Ollama |
+| **[imran-khalid-projects-portfolio](https://github.com/imrankhalid448/imran-khalid-projects-portfolio)** | Complete 34-project engineering catalog with problem statements & architectures | Markdown, Architecture Docs |
+| **[codemate-ai-assistant](https://github.com/imrankhalid448/codemate-ai-assistant)** | Local transformer-powered web coding assistant | Python, Flask, PyTorch, Transformers |
+| **[fine-tune-spike](https://github.com/imrankhalid448/fine-tune-spike)** | Audio/ML fine-tuning & evaluation harness with `pytest` coverage | FastAPI, Librosa, Scikit-learn |
 
 ---
 
